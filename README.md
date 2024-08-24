@@ -1,9 +1,4 @@
-<img src="https://github.com/anamariapego/Regressao_Linear/assets/57241391/be2c3db0-eb92-4477-948b-d90070add0e4" height="50"> 
-
 **Seminário 2023**
-
- <img src="https://github.com/anamariapego/Regressao_Linear/assets/57241391/eca2c8ba-7804-4b31-a3fc-05a7a58135a6" height="300">
-
 
 # Estudos sobre Regressão Linear
 
@@ -26,7 +21,7 @@ Para expressar esta relação e resolver esse problema, precisamos buscar dados 
 
 Como estamos analisando dados históricos para prever um novo preço, esse é um problema de regressão. O fato de preço e tamanho estarem linearmente relacionados (quanto maior o tamanho da casa, maior o preço) torna esse um problema de regressão linear.
 
-<img src="https://github.com/anamariapego/Linear-Regression/assets/57241391/247208d4-8ea2-4255-a827-f8db8a882c19" height="500">
+<img src="https://github.com/user-attachments/assets/31f7f372-eb26-4597-8f17-cd22b7f2a953" height="500">
 
 
 ## Variáveis Dependente e Independente
@@ -45,7 +40,7 @@ A análise de correlação na estatística é procurar o relacionamento ou a  a 
 - **negativa**: quando as variáveis apresentam valores negativos.
 - **nula**: quando não existe correlação.
 
-![image](https://github.com/anamariapego/Linear-Regression/assets/57241391/d2f8dc5c-21f9-4f3a-9a29-96c2b7f6940b)
+![image](https://github.com/user-attachments/assets/953525ba-57a1-4181-9e7a-520dd869ea0b)
 
 No exemplo anterior, podemos notar que o tamanho das casas estão diretamente correlacionadas, ou seja, as variáveis movem na mesma direção. 
 
@@ -53,8 +48,7 @@ Um ponto importante é que a **correlação não implica causalidade**. Ou seja,
 
 ## Tipos de Modelo de Regressão
 
-<img src="https://github.com/anamariapego/Linear-Regression/assets/57241391/aa96a501-6ad0-48e5-a261-63b1371d0ebd)" height="400">
-
+<img src="https://github.com/user-attachments/assets/50e17e16-e28b-48d1-bc42-c2855cf03881" height="400">
 
 ### Regressão Linear Simples
 
@@ -65,9 +59,8 @@ A Regressão Linear Simples é um dos tipos mais simples e básicos de regressã
 A Regressão Linear Múltipla é usada quando se utilizam mais de uma variável independente para prever uma variável dependente. Ela proporciona um ajuste melhor em comparação com a regressão linear simples quando múltiplas variáveis independentes estão envolvidas.
 
 Na imagem abaixo mostra claramente a principal diferença entre a regressão simples e múltipla:
-<img src="https://github.com/anamariapego/Linear-Regression/assets/57241391/3b53ccb7-8e01-4551-8ae4-d7f042b41091" height="400">
 
-
+<img src="https://github.com/user-attachments/assets/4eb78e77-2f2d-421d-861e-6d3e8200e73f" height="400">
 
 Uma regressão linear simples é representada pela equação, que consiste de 2 parâmetros, que correspondem aos coeficientes de uma equação da reta qualquer:
 
@@ -84,7 +77,7 @@ Onde:
 
 Este método tem como objetivo minimizar o erro quadrático geral (mínimos quadrados comuns) em todos os pontos de dados, evitando, assim, que a maioria dos pontos de dados seja excluída da equação. Isso significa que, dada uma linha de regressão através dos dados, calculamos a distância de cada ponto de dados até a linha de regressão, elevamos ao quadrado e somamos todos os erros quadráticos para encontrar a  linha de regressão que melhor se ajusta aos dados.
 
-<img src="https://github.com/anamariapego/Linear-Regression/assets/57241391/8bc7bd8c-8117-41ca-a81a-6b84147b2ee5" height="400">
+<img src="https://github.com/user-attachments/assets/21dfbd77-eebb-49fe-9b43-98596aea3caf" height="400">
 
 A reta de regressão que se obtém através do método dos mínimos quadrados é uma aproximação da realidade, pois ela é baseada em um conjunto de dados finito. Como os dados são sempre incompletos, a reta de regressão nunca será perfeita.
 
